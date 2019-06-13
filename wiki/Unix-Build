@@ -7,6 +7,7 @@ compilation will take much longer due to swap thrashing.
 
 Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
+
 Build requirements for CLI:
 
     sudo apt-get install build-essential libssl-dev libdb++-dev libboost-all-dev libqrencode-dev -y
